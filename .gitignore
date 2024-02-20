@@ -19,3 +19,10 @@
 
 # Go workspace file
 go.work
+
+# vscode stuff
+.vscode
+
+# output content
+cotacao.txt
+exchange_rate.db
